@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 3b230deb-a026-404f-aa72-e01a3136442f
+  name: Online Textbook (Volume I)
+  pageRef: /lists/online-textbook
+  weight: 10
+- identifier: a41316dc-9407-4a8a-b65a-aa24193148e5
+  name: Online Textbook (Volume II)
+  pageRef: /lists/online-textbook-volume-ii
+  weight: 20
+- identifier: cb4c4f21-7e05-45bf-a042-fdaf7a6bbefd
+  name: Related Syllabus
+  pageRef: /pages/syllabus
+  weight: 30
+- identifier: e2e709bf-b341-4381-8dd9-eb687140159b
+  name: Related Problem Sets
+  pageRef: /lists/related-problem-sets
+  weight: 40
