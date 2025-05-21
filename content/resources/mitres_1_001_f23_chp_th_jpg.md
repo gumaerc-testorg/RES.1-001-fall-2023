@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/mitres_1_001_f23_chp_th.jpg
+file: courses/project-evaluation-essays-and-case-studies/mitres_1_001_f23_chp_th.jpg
 file_size: 20859
 file_type: image/jpeg
 image_metadata:
