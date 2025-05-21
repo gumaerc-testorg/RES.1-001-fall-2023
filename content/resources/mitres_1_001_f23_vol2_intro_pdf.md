@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/mitres_1_001_f23_vol2_intro.pdf
+file: courses/project-evaluation-essays-and-case-studies/mitres_1_001_f23_vol2_intro.pdf
 file_size: 207860
 file_type: application/pdf
 image_metadata:
