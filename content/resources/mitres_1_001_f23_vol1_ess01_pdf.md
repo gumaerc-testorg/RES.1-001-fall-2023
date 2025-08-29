@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/project-evaluation-essays-and-case-studies/mitres_1_001_f23_vol1_ess01.pdf
+file: /ol-ocw-studio-app/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/mitres_1_001_f23_vol1_ess01.pdf
 file_size: 867165
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'Vol. I, Essay 1: Basic Economic Concepts'
