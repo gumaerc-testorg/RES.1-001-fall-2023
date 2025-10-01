@@ -5,7 +5,7 @@ draft: false
 title: Related Syllabus
 uid: cb4c4f21-7e05-45bf-a042-fdaf7a6bbefd
 ---
-This is a modified version of the syllabus for the course [*1.011 Project Evaluation*](https://ocw.mit.edu/courses/1-011-project-evaluation-spring-2011/) that was used in the 2007 spring term, which was the final version of the subject as taught by Carl Martland. Following his retirement from MIT, Mr. Martland published *Project Evaluation: Essays and Case Studies Volumes I and II* which was based upon the lectures, lecture notes, presentations, and case studies that he had developed for the course. The readings included in this modified syllabus are nearly all available in these two volumes. This syllabus is included here to help OCW users understand how these two volumes may be used in classroom teaching.  The {{% resource_link "e2e709bf-b341-4381-8dd9-eb687140159b" "Related Problem Sets" %}} will also be useful in this effort.
+This is a modified version of the syllabus for the course {{% resource_link "486e4d13-edb7-4cc3-9b3f-efaeb244e521" "*1.011 Project Evaluation*" %}} that was used in the 2007 spring term, which was the final version of the subject as taught by Carl Martland. Following his retirement from MIT, Mr. Martland published *Project Evaluation: Essays and Case Studies Volumes I and II* which was based upon the lectures, lecture notes, presentations, and case studies that he had developed for the course. The readings included in this modified syllabus are nearly all available in these two volumes. This syllabus is included here to help OCW users understand how these two volumes may be used in classroom teaching.  The {{% resource_link "e2e709bf-b341-4381-8dd9-eb687140159b" "Related Problem Sets" %}} will also be useful in this effort.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
@@ -293,7 +293,7 @@ Problem Set 7
 
 **How to Critique a Project: Planning your Presentation, Structuring a Project Report, and Writing an Executive Summary**
 
-Rosales and Gottemoeller, “[Urban Design Considerations for the New Woodrow Wilson Memorial Bridge:  Competition-Winning Design for Metropolitan Washington, DC](https://www.researchgate.net/publication/239438414_Urban_Design_Considerations_for_the_New_Woodrow_Wilson_Memorial_Bridge_Competition-Winning_Design_for_Metropolitan_Washington_DC),” *Journal of the Transportation Research Board* 1740(1740): pp. 104–107
+Rosales and Gottemoeller, “{{% resource_link "512c20f0-724b-41ff-9030-6d8d270f6bb6" "Urban Design Considerations for the New Woodrow Wilson Memorial Bridge:  Competition-Winning Design for Metropolitan Washington, DC" %}},” *Journal of the Transportation Research Board* 1740(1740): pp. 104–107
 
 {{< tdclose >}}{{< tdopen >}}
 \<none>
@@ -305,7 +305,7 @@ Rosales and Gottemoeller, “[Urban Design Considerations for the New Woodrow Wi
 
 (20-minute presentation followed by class discussion of sustainability issues related to highways)
 
-Reich, L.S. “[The Dawn of the Truck](https://www.inventionandtech.com/content/dawn-truck-1),” *Invention & Technology* 16 (2): Fall 2000
+Reich, L.S. “{{% resource_link "67366068-39e5-4ef9-af21-bc255ac70405" "The Dawn of the Truck" %}},” *Invention & Technology* 16 (2): Fall 2000
 
 {{< tdclose >}}{{< tdopen >}}
 *Due*             
